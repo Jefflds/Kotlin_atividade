@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin_atividade</string>
+    <string name="editText_hint">Digite aqui</string>
+    <string name="echo_label_txt">Echo label txt</string>
+</resources>
